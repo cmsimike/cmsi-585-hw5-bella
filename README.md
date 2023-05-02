@@ -5,6 +5,6 @@
 ## If you don't have Docker
 * Install Node.js
 * npm ci
-* tsc
+* `tsc`
 * `node dist/index.js`
 * Look for `All tests pass - yay!`
